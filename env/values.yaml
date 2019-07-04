@@ -21,5 +21,5 @@ jenkins:
     Global: {}
 prow: {}
 
-flightProcessing:
+flight-processing:
   flightBuilderStrategy: sorted
