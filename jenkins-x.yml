@@ -1,0 +1,8 @@
+env:
+- name: DEPLOY_NAMESPACE
+  value: flight-avd-demo
+pipelineConfig:
+  env:
+  - name: DEPLOY_NAMESPACE
+    value: flight-avd-demo
+  pipelines: {}
