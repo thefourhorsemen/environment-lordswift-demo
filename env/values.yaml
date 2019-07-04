@@ -20,3 +20,6 @@ jenkins:
   Servers:
     Global: {}
 prow: {}
+
+flightProcessing:
+  flightBuilderStrategy: sorted
